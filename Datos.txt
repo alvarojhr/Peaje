@@ -1,0 +1,13 @@
+							-------------------------------------------------
+								           CATEGORIAS
+							-------------------------------------------------
+
+					A		B		C		D		E		F
+
+ Cantidad de vehiculos:			1 		0 		0 		0 		0 		0 
+
+ Cantidad de vehiculos gbmtls:		0 		0 		0 		0 		0 		0 
+
+ Precio categoria:			9400 		0 		10500 		21700 		27600 		31200 
+
+ Recaudo de cada categoria:		9400 		0 		0 		0 		0 		0 
